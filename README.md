@@ -34,7 +34,7 @@ npm start
 
 ## Screenshot
 
-assets/Screenshot 2025-03-23 020411.png
+![alt text](image.png)
 
 ## Walkthrough Video
 https://drive.google.com/file/d/1jnQZx3_Wk_WF7tki-HuRFgcGAuWOJRzH/view
