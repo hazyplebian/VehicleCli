@@ -87,6 +87,6 @@ constructor (
     console.log(`Towing Capacity: ${this.towingCapacity} lbs`);
     console.log(`Wheels: ${this.wheels}`);
 }
-
+}
 // Export the Truck class as the default export
-export default Truck;
+export default Truck
